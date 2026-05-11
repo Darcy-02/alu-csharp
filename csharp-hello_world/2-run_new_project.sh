@@ -3,12 +3,6 @@
 # Define the project directory
 PROJECT_DIR="2-new_project"
 
-# Check if the project directory already exists
-if [ -d "$PROJECT_DIR" ]; then
-  echo "The directory $PROJECT_DIR already exists."
-  exit 1
-fi
-
 # Create the project directory
 mkdir $PROJECT_DIR
 cd $PROJECT_DIR
