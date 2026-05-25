@@ -1,15 +1,20 @@
 ﻿using System;
 
-public class Array
+class Program
 {
-    public static int elementAt(int[] array, int index)
+    static void Main(string[] args)
     {
-        if (index < 0 || index >= array.Length)
-        {
-            Console.WriteLine("Index out of range");
-            return -1;
-        }
+        int[] newArray;
 
-        return array[index];
+        newArray = Array.CreatePrint(10);
+        Console.WriteLine("Array Length: " + newArray.Length);
+        Console.WriteLine("----------------");
+        newArray = Array.CreatePrint(16);
+        Console.WriteLine("Array Length: " + newArray.Length);
+        Console.WriteLine("----------------");
+        newArray = Array.CreatePrint(0);
+        Console.WriteLine("Array Length: " + newArray.Length);
+        Console.WriteLine("----------------");
+        newArray = Array.CreatePrint(-10);
     }
 }
