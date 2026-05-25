@@ -1,29 +1,30 @@
 ﻿using System;
 
-public class MyArray
+namespace MyApp
 {
-    public static int[] CreatePrint(int size)
+    public class Array
     {
-        if (size < 0)
+        public static int[] CreatePrint(int size)
         {
-            Console.WriteLine("Size cannot be negative");
-            return null;
+            if (size < 0)
+            {
+                Console.WriteLine("Size cannot be negative");
+                return null;
+            }
+            if (size == 0)
+            {
+                return new int[0];
+            }
+            int[] arr = new int[size];
+            for (int i = 0; i < size; i++)
+            {
+                arr[i] = i;
+                Console.Write(i);
+                if (i < size - 1)
+                    Console.Write(" ");
+            }
+            Console.WriteLine();
+            return arr;
         }
-
-        if (size == 0)
-        {
-            return new int[0];
-        }
-
-        int[] arr = new int[size];
-        for (int i = 0; i < size; i++)
-        {
-            arr[i] = i;
-            Console.Write(i);
-            if (i < size - 1)
-                Console.Write(" ");
-        }
-        Console.WriteLine();
-        return arr;
     }
 }
