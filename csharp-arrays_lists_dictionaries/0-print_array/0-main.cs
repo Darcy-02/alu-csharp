@@ -1,5 +1,4 @@
 using System;
-using MyApp;
 
 class Program
 {
@@ -7,7 +6,7 @@ class Program
     {
         int[] newArray;
 
-        newArray = Array.CreatePrint(5);
+        newArray = Array.CreatePrint(10);
         Console.WriteLine("Array Length: " + newArray.Length);
         Console.WriteLine("----------------");
         newArray = Array.CreatePrint(16);
