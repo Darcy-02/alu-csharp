@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8-number_keys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38f856adc4f1f5ff61f85588790e38e7cef160a")]
 [assembly: System.Reflection.AssemblyProductAttribute("8-number_keys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8-number_keys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
