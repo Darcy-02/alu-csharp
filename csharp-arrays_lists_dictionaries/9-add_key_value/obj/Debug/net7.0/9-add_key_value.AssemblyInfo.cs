@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9-add_key_value")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38f856adc4f1f5ff61f85588790e38e7cef160a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0db0fb78ead8df02aefda25b371d61244185df9")]
 [assembly: System.Reflection.AssemblyProductAttribute("9-add_key_value")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9-add_key_value")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
