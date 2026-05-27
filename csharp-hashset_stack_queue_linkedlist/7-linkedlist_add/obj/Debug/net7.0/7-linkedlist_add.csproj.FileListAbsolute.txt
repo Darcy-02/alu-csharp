@@ -1,0 +1,14 @@
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net7.0\7-linkedlist_add.exe
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net7.0\7-linkedlist_add.deps.json
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net7.0\7-linkedlist_add.runtimeconfig.json
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net7.0\7-linkedlist_add.dll
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net7.0\7-linkedlist_add.pdb
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.AssemblyInfoInputs.cache
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.AssemblyInfo.cs
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.csproj.CoreCompileInputs.cache
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.dll
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\refint\7-linkedlist_add.dll
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.pdb
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\7-linkedlist_add.genruntimeconfig.cache
+C:\Users\Darcy\alu-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net7.0\ref\7-linkedlist_add.dll
