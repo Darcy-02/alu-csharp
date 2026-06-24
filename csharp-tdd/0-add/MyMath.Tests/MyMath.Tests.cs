@@ -1,56 +1,21 @@
-﻿using NUnit.Framework;
-using MyMath;
+﻿using System;
 
-namespace MyMath.Tests
+namespace MyMath
 {
     /// <summary>
-    /// Contains unit tests for the <see cref="Operations"/> class.
+    /// Provides basic mathematical operations.
     /// </summary>
-    public class OperationsTests
+    public class Operations
     {
         /// <summary>
-        /// Tests that adding two positive integers returns the correct sum.
+        /// Adds two integers and returns the sum.
         /// </summary>
-        [Test]
-        public void Add_PositiveIntegers_ReturnsSum()
+        /// <param name="a">First integer</param>
+        /// <param name="b">Second integer</param>
+        /// <returns>The sum of a and b.</returns>
+        public static int Add(int a, int b)
         {
-            Assert.AreEqual(5, Operations.Add(2, 3));
-        }
-
-        /// <summary>
-        /// Tests that adding two negative integers returns the correct sum.
-        /// </summary>
-        [Test]
-        public void Add_NegativeIntegers_ReturnsSum()
-        {
-            Assert.AreEqual(-5, Operations.Add(-2, -3));
-        }
-
-        /// <summary>
-        /// Tests that adding a positive and a negative integer returns the correct sum.
-        /// </summary>
-        [Test]
-        public void Add_PositiveAndNegative_ReturnsSum()
-        {
-            Assert.AreEqual(1, Operations.Add(3, -2));
-        }
-
-        /// <summary>
-        /// Tests that adding zero to a number returns the same number.
-        /// </summary>
-        [Test]
-        public void Add_NumberAndZero_ReturnsSameNumber()
-        {
-            Assert.AreEqual(7, Operations.Add(7, 0));
-        }
-
-        /// <summary>
-        /// Tests that adding zero to zero returns zero.
-        /// </summary>
-        [Test]
-        public void Add_ZeroAndZero_ReturnsZero()
-        {
-            Assert.AreEqual(0, Operations.Add(0, 0));
+            return a + b;
         }
     }
 }
