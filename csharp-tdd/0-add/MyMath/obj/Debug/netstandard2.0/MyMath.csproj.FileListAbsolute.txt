@@ -1,0 +1,11 @@
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.deps.json
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.dll
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.pdb
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.xml
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.AssemblyReference.cache
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.dll
+C:\Users\rssb\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.pdb
