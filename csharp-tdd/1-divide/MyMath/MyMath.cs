@@ -2,17 +2,17 @@
 
 namespace MyMath
 {
-    public class Matrix
+    /// <summary>Matrix helpers.</summary>
+    public static class Matrix
     {
-        /// <summary>
-        /// Divides all elements of a matrix by a number.
-        /// </summary>
-        /// <param name="matrix">Input matrix</param>
-        /// <param name="num">Number to divide by</param>
-        /// <returns>New matrix with divided elements, or null if input invalid</returns>
+        /// <summary>Divides every element of a matrix by num.</summary>
+        /// <param name="matrix">Matrix to divide.</param>
+        /// <param name="num">Divisor.</param>
+        /// <returns>New divided matrix, or null if matrix is null or num is 0.</returns>
         public static int[,] Divide(int[,] matrix, int num)
         {
-            if (matrix == null) return null;
+            if (matrix == null)
+                return null;
 
             try
             {
@@ -27,7 +27,6 @@ namespace MyMath
                         result[i, j] = matrix[i, j] / num;
                     }
                 }
-
                 return result;
             }
             catch (DivideByZeroException)

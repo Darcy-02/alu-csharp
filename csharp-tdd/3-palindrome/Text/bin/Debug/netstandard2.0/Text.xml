@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>String helpers.</summary>
+        </member>
+        <member name="M:Text.Str.IsPalindrome(System.String)">
+            <summary>Checks if a string reads the same both ways, ignoring case and non-alphanumerics.</summary>
+            <param name="s">String to check.</param>
+            <returns>True if a palindrome (empty counts as true).</returns>
+        </member>
+    </members>
+</doc>

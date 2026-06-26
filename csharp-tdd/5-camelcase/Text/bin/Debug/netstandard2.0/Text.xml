@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>String helpers.</summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary>Counts the words in a camelCase string.</summary>
+            <param name="s">camelCase string.</param>
+            <returns>Number of words.</returns>
+        </member>
+    </members>
+</doc>

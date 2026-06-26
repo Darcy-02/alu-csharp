@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6imOAYCPgx5CL2YWqS1lR6V4D3/LyaVZc87sGxQLCN3W4+TE62EO1Y+Bas9DeAKeaMTyg9zJhvb1pcrESIZlgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rssb\\alu-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rssb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rssb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

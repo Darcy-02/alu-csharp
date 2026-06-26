@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{466D0628-DB24-4FCF-BD1C-BE2F1AB9F9C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{0913C492-4FF3-44AE-B9A8-7B50C3610304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath.Tests", "MyMath.Tests\MyMath.Tests.csproj", "{32C9FEFC-8AC2-48C5-BC20-70800D3F2058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath.Tests", "MyMath.Tests\MyMath.Tests.csproj", "{016C7CE6-2D9A-4FA4-9F2F-5C94703426DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{466D0628-DB24-4FCF-BD1C-BE2F1AB9F9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{466D0628-DB24-4FCF-BD1C-BE2F1AB9F9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{466D0628-DB24-4FCF-BD1C-BE2F1AB9F9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{466D0628-DB24-4FCF-BD1C-BE2F1AB9F9C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{32C9FEFC-8AC2-48C5-BC20-70800D3F2058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32C9FEFC-8AC2-48C5-BC20-70800D3F2058}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32C9FEFC-8AC2-48C5-BC20-70800D3F2058}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32C9FEFC-8AC2-48C5-BC20-70800D3F2058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0913C492-4FF3-44AE-B9A8-7B50C3610304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0913C492-4FF3-44AE-B9A8-7B50C3610304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0913C492-4FF3-44AE-B9A8-7B50C3610304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0913C492-4FF3-44AE-B9A8-7B50C3610304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016C7CE6-2D9A-4FA4-9F2F-5C94703426DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016C7CE6-2D9A-4FA4-9F2F-5C94703426DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016C7CE6-2D9A-4FA4-9F2F-5C94703426DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016C7CE6-2D9A-4FA4-9F2F-5C94703426DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

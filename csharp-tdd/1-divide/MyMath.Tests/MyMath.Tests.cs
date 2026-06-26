@@ -3,51 +3,32 @@ using MyMath;
 
 namespace MyMath.Tests
 {
-    /// <summary>
-    /// Contains unit tests for the <see cref="Matrix"/> class.
-    /// </summary>
     [TestFixture]
     public class MatrixTests
     {
-        /// <summary>
-        /// Tests that dividing a matrix with positive integers
-        /// by a positive number returns the expected result.
-        /// </summary>
         [Test]
-        public void Divide_PositiveMatrix_ReturnsCorrectResult()
+        public void Divide_ValidMatrix_ReturnsDividedMatrix()
         {
-            int[,] mat = { { 4, 8 }, { 6, 12 } };
-            int[,] expected = { { 2, 4 }, { 3, 6 } };
-
-            int[,] result = Matrix.Divide(mat, 2);
-
-            Assert.AreEqual(expected, result);
+            int[,] matrix = { { 10, 20 }, { 30, 40 } };
+            int[,] result = Matrix.Divide(matrix, 2);
+            Assert.AreEqual(5, result[0, 0]);
+            Assert.AreEqual(10, result[0, 1]);
+            Assert.AreEqual(15, result[1, 0]);
+            Assert.AreEqual(20, result[1, 1]);
         }
 
-        /// <summary>
-        /// Tests that dividing a matrix by zero prints
-        /// a message and returns <c>null</c>.
-        /// </summary>
         [Test]
-        public void Divide_ByZero_PrintsMessageAndReturnsNull()
+        public void Divide_NumIsZero_ReturnsNull()
         {
-            int[,] mat = { { 1, 2 }, { 3, 4 } };
-
-            int[,] result = Matrix.Divide(mat, 0);
-
+            int[,] matrix = { { 10, 20 } };
+            int[,] result = Matrix.Divide(matrix, 0);
             Assert.IsNull(result);
         }
 
-        /// <summary>
-        /// Tests that passing a <c>null</c> matrix returns <c>null</c>.
-        /// </summary>
         [Test]
         public void Divide_NullMatrix_ReturnsNull()
         {
-            int[,] mat = null;
-
-            int[,] result = Matrix.Divide(mat, 2);
-
+            int[,] result = Matrix.Divide(null, 2);
             Assert.IsNull(result);
         }
     }

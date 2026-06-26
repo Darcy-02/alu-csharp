@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>String helpers.</summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary>Finds the first character that appears only once.</summary>
+            <param name="s">String to search.</param>
+            <returns>Index of the first unique character, or -1 if none.</returns>
+        </member>
+    </members>
+</doc>
