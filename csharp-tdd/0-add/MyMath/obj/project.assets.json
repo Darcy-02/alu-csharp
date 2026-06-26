@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\rssb\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
+      "projectUniqueName": "C:\\Users\\rssb\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
       "projectName": "MyMath",
-      "projectPath": "c:\\Users\\rssb\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
+      "projectPath": "C:\\Users\\rssb\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
       "packagesPath": "C:\\Users\\rssb\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\rssb\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\obj\\",
+      "outputPath": "C:\\Users\\rssb\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rssb\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{47D5B2AB-2EDD-4C74-8C42-87D53D7E9A42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{A9936FB2-6282-4F3F-A4BB-208F3BEFFDB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath.Tests", "MyMath.Tests\MyMath.Tests.csproj", "{E9A5B47A-D128-425C-8193-F87ADA1AB96F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath.Tests", "MyMath.Tests\MyMath.Tests.csproj", "{BA0990DA-043D-4DE4-AE04-2076CDB0E53E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{47D5B2AB-2EDD-4C74-8C42-87D53D7E9A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47D5B2AB-2EDD-4C74-8C42-87D53D7E9A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47D5B2AB-2EDD-4C74-8C42-87D53D7E9A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47D5B2AB-2EDD-4C74-8C42-87D53D7E9A42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9A5B47A-D128-425C-8193-F87ADA1AB96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9A5B47A-D128-425C-8193-F87ADA1AB96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9A5B47A-D128-425C-8193-F87ADA1AB96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9A5B47A-D128-425C-8193-F87ADA1AB96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9936FB2-6282-4F3F-A4BB-208F3BEFFDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9936FB2-6282-4F3F-A4BB-208F3BEFFDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9936FB2-6282-4F3F-A4BB-208F3BEFFDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9936FB2-6282-4F3F-A4BB-208F3BEFFDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0990DA-043D-4DE4-AE04-2076CDB0E53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0990DA-043D-4DE4-AE04-2076CDB0E53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0990DA-043D-4DE4-AE04-2076CDB0E53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0990DA-043D-4DE4-AE04-2076CDB0E53E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
