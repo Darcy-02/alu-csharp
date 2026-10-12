@@ -1,10 +1,15 @@
 using System;
 
+/// <summary> Generic Queue implementation </summary>
+/// <typeparam name="T"> Type of queue </typeparam>
+
 public class Queue<T>
 {
-    // Node class
+    /// <summary> Node for Queue </summary>
     public class Node
     {
+
+    /// <summary> value of node </summary>
         public T value;
         public Node? next;
 
@@ -105,7 +110,7 @@ public class Queue<T>
 
         if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
         {
-            Console.WriteLine("Concatenate() is for a queue of Strings or Chars only.");
+            Console.WriteLine("Concatenate is for a queue of Strings or Chars only.");
             return null;
         }
 
