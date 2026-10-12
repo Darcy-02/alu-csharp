@@ -1,15 +1,10 @@
 using System;
 
-/// <summary> Generic Queue implementation </summary>
-/// <typeparam name="T"> Type of queue </typeparam>
-
 public class Queue<T>
 {
-    /// <summary> Node for Queue </summary>
+    //<summary> Node class </summary>
     public class Node
     {
-
-    /// <summary> value of node </summary>
         public T value;
         public Node? next;
 
