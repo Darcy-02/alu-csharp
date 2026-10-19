@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\bin\Debug\net7.0\1-user_interface.exe
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\bin\Debug\net7.0\1-user_interface.deps.json
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\bin\Debug\net7.0\1-user_interface.runtimeconfig.json
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\bin\Debug\net7.0\1-user_interface.dll
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\bin\Debug\net7.0\1-user_interface.pdb
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.dll
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\refint\1-user_interface.dll
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.pdb
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\1-user_interface.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net7.0\ref\1-user_interface.dll
