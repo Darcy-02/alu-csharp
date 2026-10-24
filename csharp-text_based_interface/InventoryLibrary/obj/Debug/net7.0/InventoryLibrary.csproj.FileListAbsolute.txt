@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.deps.json
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.dll
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.pdb
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\InventoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\InventoryLibrary.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\InventoryLibrary.dll
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\refint\InventoryLibrary.dll
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\InventoryLibrary.pdb
+C:\Users\LENOVO\Documents\Games\Unity_intranet\alu-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\net7.0\ref\InventoryLibrary.dll
